@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1511048360 source:/home/user/Desktop/tempdata/Builder.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	"Builder.h"
+	"calculations.h"
+
+1511041487 /home/user/Desktop/tempdata/Builder.h
+	<iostream>
+
+1511074760 source:/home/user/Desktop/tempdata/calculations.cpp
+	<iostream>
+	<sstream>
+	<math.h>
+	"calculations.h"
+
+1511051686 /home/user/Desktop/tempdata/calculations.h
+	<iostream>
+
+1511050696 source:/home/user/Desktop/tempdata/main.cpp
+	<iostream>
+	<fstream>
+	"Builder.h"
+	"calculations.h"
+
